@@ -6,10 +6,8 @@ class Solution {
       reversed = reversed * 10 + digit;
     }
            if(a < 0) return false;
-    
         if(a==reversed)  
         return true;
-
     return false;
     }
 }
