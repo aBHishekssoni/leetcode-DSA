@@ -19,4 +19,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0908-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
