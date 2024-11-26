@@ -9,3 +9,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3379-score-of-a-string) |
+<!---LeetCode Topics End-->
