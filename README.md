@@ -15,4 +15,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3379-score-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
