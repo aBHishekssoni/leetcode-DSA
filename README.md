@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
@@ -47,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Recursion
@@ -57,4 +59,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
