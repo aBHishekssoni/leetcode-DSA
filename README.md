@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0011-container-with-most-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -53,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
