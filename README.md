@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
 |  |
