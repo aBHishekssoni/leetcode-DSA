@@ -69,6 +69,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0278-first-bad-version) |
 ## Greedy
 |  |
 | ------- |
@@ -85,4 +86,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
