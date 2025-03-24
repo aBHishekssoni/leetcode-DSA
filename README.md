@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0278-first-bad-version) |
 ## Greedy
 |  |
@@ -96,4 +98,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
