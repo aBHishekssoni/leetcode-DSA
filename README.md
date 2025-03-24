@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0011-container-with-most-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0189-rotate-array) |
@@ -71,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0278-first-bad-version) |
@@ -102,5 +104,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
