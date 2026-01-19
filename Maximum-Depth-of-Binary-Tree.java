@@ -15,8 +15,7 @@
 15 */
 16class Solution {
 17    public int maxDepth(TreeNode root) {
-18        if(root==null) return 0;
-19        // int sum = 0;
-20        return (int)Math.max(maxDepth(root.left) +1,maxDepth(root.right)+1);
-21    }
-22}
+18        if(root==null) return 0;    
+19        return (int)Math.max(maxDepth(root.left) +1,maxDepth(root.right)+1);
+20    }
+21}
