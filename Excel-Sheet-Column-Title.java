@@ -10,11 +10,9 @@
 10            columnNumber--;
 11            int n = columnNumber%26;
 12            columnNumber-=n;
-13            // if(n==0) s = "Z"+s;
-14            // else
-15            s = (char)(n+65)+s;
-16            columnNumber /=26;
-17        }
-18        return s;
-19    }
-20}
+13            s = (char)(n+65)+s;
+14            columnNumber /=26;
+15        }
+16        return s;
+17    }
+18}
