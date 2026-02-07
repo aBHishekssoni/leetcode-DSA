@@ -8,8 +8,6 @@
 8            if(n>i) nums[i] = 0;
 9            else nums[i]= 1;
 10        }
-11
-12        // Arrays.sort(nums);
-13        return nums;
-14    }
-15}
+11        return nums;
+12    }
+13}
