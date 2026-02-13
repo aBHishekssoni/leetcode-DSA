@@ -9,31 +9,52 @@
 9 * }
 10 */
 11class Solution {
-12    public ListNode swapNodes(ListNode head, int K) {
-13        if(head==null||head.next==null) return head;
-14        int c=0;
-15        ListNode A = head;
-16        while(A!=null){
-17            c++;
-18            A=A.next;
-19        }
-20        A = head;
-21        ListNode S = new ListNode(0);
-22        ListNode E = new ListNode(c);
-23        int n=1;
-24         while(A!=null){
-25            if(n==K)
-26            S.next =A;
-27            if(n==c-K+1)
-28            E.next =A;
-29            A=A.next;
-30            n++;
-31        }
-32        S = S.next;
-33        E = E.next;
-34        int t = E.val;
-35        E.val = S.val;
-36        S.val = t;
-37        return head;
-38    }
-39}
+12    public ListNode swapNodes(ListNode head, int k) {
+13        ListNode slow =head;
+14        ListNode fast=head;
+15        for(int i =1;i<=k;i++){
+16            fast=fast.next;
+17        }
+18
+19        while(fast!=null){
+20            slow = slow.next;
+21            fast=fast.next;
+22
+23        }
+24        fast=head;
+25       for(int i =1;i<=k-1;i++){
+26            fast=fast.next;
+27        }
+28
+29        int temp = fast.val;
+30        fast.val =slow.val;
+31        slow.val=temp;
+32        return head;
+33     // My meathod
+34        // if(head==null||head.next==null) return head;
+35        // int c=0;
+36        // ListNode A = head;
+37        // while(A!=null){
+38        //     c++;
+39        //     A=A.next;
+40        // }
+41        // A = head;
+42        // ListNode S = new ListNode(0);
+43        // ListNode E = new ListNode(c);
+44        // int n=1;
+45        //  while(A!=null){
+46        //     if(n==k)
+47        //     S.next =A;
+48        //     if(n==c-k+1)
+49        //     E.next =A;
+50        //     A=A.next;
+51        //     n++;
+52        // }
+53        // S = S.next;
+54        // E = E.next;
+55        // int t = E.val;
+56        // E.val = S.val;
+57        // S.val = t;
+58        // return head;
+59    }
+60}
