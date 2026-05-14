@@ -16,17 +16,15 @@
 16class Solution {
 17    int c = 0;
 18    public int countNodes(TreeNode root) {
-19        // if(TreeNode==null) return 0;
-20        inOrder(root);
-21        return c;
-22    }
-23    public void inOrder(TreeNode root) {
-24    if (root == null) {
-25        return;
-26    }
-27    c++;
-28    inOrder(root.left);      // Visit left subtree
-29    // System.out.print(root.val + " "); // Visit root
-30    inOrder(root.right);     // Visit right subtree
-31}
-32}
+19        inOrder(root);
+20        return c;
+21    }
+22    public void inOrder(TreeNode root) {
+23    if (root == null) {
+24        return;
+25    }
+26    c++;
+27    inOrder(root.left);
+28    inOrder(root.right);
+29}
+30}
