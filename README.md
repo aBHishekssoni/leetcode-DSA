@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [3379-score-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3379-score-of-a-string) |
 ## Array
 | Problem Name | Difficulty |
@@ -110,10 +111,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +125,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
