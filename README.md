@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0011-container-with-most-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,6 +56,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0010-regular-expression-matching](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0042-trapping-rain-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0055-jump-game/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
