@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0257-binary-tree-paths](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0290-word-pattern) |
 | [3379-score-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3379-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0290-word-pattern) |
 | [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
