@@ -94,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0240-search-a-2d-matrix-ii](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
