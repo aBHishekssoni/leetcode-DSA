@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [3379-score-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3379-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
@@ -51,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0189-rotate-array](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0523-continuous-subarray-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Prefix Sum
@@ -160,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
