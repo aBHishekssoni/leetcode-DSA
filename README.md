@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0392-is-subsequence](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [3379-score-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3379-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
