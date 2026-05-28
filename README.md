@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [3379-score-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3379-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
@@ -78,6 +79,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
