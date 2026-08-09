@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0010-regular-expression-matching/) | Hard |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aBHishekssoni/leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/aBHishekssoni/leetcode-DSA/tree/main/0257-binary-tree-paths/) | Easy |
